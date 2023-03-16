@@ -1,0 +1,15 @@
+C:\WorkSpace\task reverse,join,trim\join\extention\extention\bin\Debug\net6.0\extention.exe
+C:\WorkSpace\task reverse,join,trim\join\extention\extention\bin\Debug\net6.0\extention.deps.json
+C:\WorkSpace\task reverse,join,trim\join\extention\extention\bin\Debug\net6.0\extention.runtimeconfig.json
+C:\WorkSpace\task reverse,join,trim\join\extention\extention\bin\Debug\net6.0\extention.dll
+C:\WorkSpace\task reverse,join,trim\join\extention\extention\bin\Debug\net6.0\extention.pdb
+C:\WorkSpace\task reverse,join,trim\join\extention\extention\obj\Debug\net6.0\extention.csproj.AssemblyReference.cache
+C:\WorkSpace\task reverse,join,trim\join\extention\extention\obj\Debug\net6.0\extention.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace\task reverse,join,trim\join\extention\extention\obj\Debug\net6.0\extention.AssemblyInfoInputs.cache
+C:\WorkSpace\task reverse,join,trim\join\extention\extention\obj\Debug\net6.0\extention.AssemblyInfo.cs
+C:\WorkSpace\task reverse,join,trim\join\extention\extention\obj\Debug\net6.0\extention.csproj.CoreCompileInputs.cache
+C:\WorkSpace\task reverse,join,trim\join\extention\extention\obj\Debug\net6.0\extention.dll
+C:\WorkSpace\task reverse,join,trim\join\extention\extention\obj\Debug\net6.0\refint\extention.dll
+C:\WorkSpace\task reverse,join,trim\join\extention\extention\obj\Debug\net6.0\extention.pdb
+C:\WorkSpace\task reverse,join,trim\join\extention\extention\obj\Debug\net6.0\extention.genruntimeconfig.cache
+C:\WorkSpace\task reverse,join,trim\join\extention\extention\obj\Debug\net6.0\ref\extention.dll
